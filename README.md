@@ -57,7 +57,7 @@ Implementing Basic CRUD for Furniture Shop with HttpServer
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `id`      | `int` | **Required** Id of item to fetch |
+| `id`      | `int` | **Required** Id of item to update |
 | `furnitureName`  | `string` | **Optional** Furniture Name |
 | `category`  | `string` | **Optional** Category of Furniture |
 | `stock`  | `int` | **Optional** Stock of Furniture  |
@@ -72,7 +72,7 @@ Implementing Basic CRUD for Furniture Shop with HttpServer
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `id`      | `int` | **Required** Id of item to fetch |
+| `id`      | `int` | **Required** Id of item to delete |
 
 
 
